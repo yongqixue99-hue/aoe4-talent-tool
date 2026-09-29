@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+release/
+build_work/
+分享版_免安装/
+*.zip
+*.spec
+backups/
+*.rlc

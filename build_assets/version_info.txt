@@ -1,0 +1,30 @@
+VSVersionInfo(
+  ffi=FixedFileInfo(
+    filevers=(1, 4, 0, 0),
+    prodvers=(1, 4, 0, 0),
+    mask=0x3F,
+    flags=0x0,
+    OS=0x40004,
+    fileType=0x1,
+    subtype=0x0,
+    date=(0, 0)
+  ),
+  kids=[
+    StringFileInfo([
+      StringTable(
+        u'080404B0',
+        [
+          StringStruct(u'CompanyName', u'Laplace的ai站'),
+          StringStruct(u'FileDescription', u'帝国时代4 炼狱模式 天赋点修改器'),
+          StringStruct(u'FileVersion', u'1.4.0.0'),
+          StringStruct(u'InternalName', u'AoE4_RogueTalentTool'),
+          StringStruct(u'LegalCopyright', u'Laplace的ai站制作'),
+          StringStruct(u'OriginalFilename', u'AoE4_RogueTalentTool.exe'),
+          StringStruct(u'ProductName', u'AoE4 Rogue Talent Tool'),
+          StringStruct(u'ProductVersion', u'1.4.0.0')
+        ]
+      )
+    ]),
+    VarFileInfo([VarStruct(u'Translation', [2052, 1200])])
+  ]
+)
